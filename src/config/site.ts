@@ -25,10 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Makeup Guides, Styling Tips & Beauty Challenges",
   description: "Complete Makeup Mania wiki featuring makeup guides, styling tips, beauty challenges, character customization, and gameplay information for players.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://makeup-mania.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://makeup-mania.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/discover/?Keyword=Makeup%20Mania",
-  heroVideoId: "ji_LjqvjeAk", // ROBLOX Makeup Mania tutorial / perfect look showcase
-  social: {},
+  supportEmail: "support@makeup-mania.top",
+  gameUrl: "https://www.roblox.com/games/117935850321807/Makeup-Mania-BETA",
+  heroVideoId: "ji_LjqvjeAk", // ROBLOX Makeup Mania — how to make the perfect look (showcase/tutorial)
+  social: {
+    youtube: "https://www.youtube.com/watch?v=ji_LjqvjeAk",
+  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
