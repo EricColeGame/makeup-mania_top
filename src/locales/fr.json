@@ -1,1 +1,522 @@
-{}
+{
+  "site": {
+    "name": "Makeup Mania Wiki",
+    "shortName": "Makeup Mania",
+    "tagline": "Guides de maquillage, astuces de style et défis beauté",
+    "description": "Wiki complet de Makeup Mania avec guides de maquillage, astuces de style, défis beauté, personnalisation de personnages et informations de jeu pour les joueurs.",
+    "legalNotice": "Wiki de fans non officiel. Réalisé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guide",
+    "mechanics": "Mécaniques",
+    "items": "Objets",
+    "codes": "Codes",
+    "controls": "Commandes",
+    "reviews": "Avis"
+  },
+  "home": {
+    "meta": {
+      "title": "Makeup Mania Wiki - Guides, looks et astuces beauté",
+      "description": "Explorez Makeup Mania Wiki avec des guides de maquillage, des défis beauté, des astuces de style, la personnalisation de personnages et les dernières informations du jeu pour les joueurs du monde entier."
+    },
+    "hero": {
+      "eyebrow": "Jeu créatif de style et de maquillage",
+      "title": "Makeup Mania Wiki",
+      "description": "Wiki complet de Makeup Mania avec guides de maquillage, astuces de style, défis beauté, personnalisation de personnages et informations de jeu pour les joueurs.",
+      "stats": [
+        "Visites totales",
+        "Looks disponibles",
+        "Codes actifs",
+        "Mises à jour quotidiennes"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Jouer sur Roblox",
+      "tertiaryCta": "Codes actifs",
+      "videoLabel": "Média officiel"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Voir tous les guides",
+      "viewAll": "Voir tout"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre parcours dans Makeup Mania",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez la boucle principale, de votre première demande client à votre premier look trois étoiles, en passant par la préparation de la base, l'ordre des outils et l'envoi."
+        },
+        {
+          "number": "2",
+          "title": "Codes et récompenses",
+          "description": "Suivez où apparaissent les codes Makeup Mania, comment les activer en toute sécurité et les erreurs qui coûtent discrètement des pièces et des objets gratuits aux joueurs."
+        },
+        {
+          "number": "3",
+          "title": "Outils de maquillage",
+          "description": "Comprenez chaque catégorie de produit, du fond de teint et des fards à paupières à l'eye-liner, aux sourcils, au blush et à l'enlumineur, et quand utiliser chacun."
+        },
+        {
+          "number": "4",
+          "title": "Astuces de score",
+          "description": "Découvrez comment la précision du brief, l'estompage, la vitesse et les objectifs bonus se combinent dans la note en étoiles qui finance votre prochain déblocage."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances du moment",
+      "quickLinks": [
+        "Guide du débutant",
+        "Outils de maquillage",
+        "Astuces de score",
+        "Cheveux et cils"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Tout ce qu'il vous faut, de votre premier client à un look trois étoiles, étape par étape.",
+          "href": "/guide/makeup-mania-beginner-guide"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Codes Makeup Mania",
+          "description": "Où apparaissent les codes, comment les activer et quelles récompenses attendre.",
+          "href": "/codes/makeup-mania-codes"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Guide des outils de maquillage",
+          "description": "Toutes les catégories de produits expliquées, de la préparation de la base à l'enlumineur final.",
+          "href": "/items/makeup-mania-cosmetics"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Cheveux et cils",
+          "description": "Styles, cils et teintures qui complètent un look à thème.",
+          "href": "/mechanics/makeup-mania-hair"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Comment jouer",
+          "description": "La boucle complète, de la lecture du brief à l'encaissement de votre paiement.",
+          "href": "/guide/makeup-mania-how-to-play"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Astuces et conseils",
+          "description": "Les piliers du score, la théorie des couleurs et les habitudes qui font monter votre moyenne.",
+          "href": "/guide/makeup-mania-tips-and-tricks"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Guide des thèmes",
+          "description": "Comment lire les consignes de style et choisir une palette qui correspond au brief.",
+          "href": "/guide/makeup-mania-perfect-look"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Mises à jour",
+          "description": "Ce que les récentes mises à jour de Makeup Mania ont changé pour les looks et le score.",
+          "href": "/reviews/makeup-mania-update"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Accessoires",
+          "description": "Pinceaux, rangements et objets de coiffeuse qui accompagnent chaque routine.",
+          "href": "/items/makeup-mania-accessories"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Makeup Mania ?",
+      "paragraphs": [
+        "Makeup Mania est une simulation de maquilleuse sur Roblox. À chaque session, vous recevez un client avec un brief court, et votre mission est de créer un look qui correspond à sa demande avec les outils de votre palette. Il n'y a ni combat ni échec permanent, vous pouvez donc expérimenter librement tout en apprenant comment le jeu note votre travail.",
+        "La progression repose sur les pièces et les notes en étoiles. Les looks bien notés débloquent de nouveaux produits, clients et options de style, et les habitudes qui rapportent trois étoiles dès le début, comme lire le brief, préparer la base et estomper par fines couches, s'appliquent directement aux demandes plus tardives et plus difficiles. Notre wiki rassemble guides du débutant, analyses d'outils et astuces de score au même endroit."
+      ],
+      "stats": [
+        {
+          "label": "Plateforme",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Stylisme de maquillage"
+        },
+        {
+          "label": "Coût",
+          "value": "Gratuit"
+        },
+        {
+          "label": "Session",
+          "value": "2-5 minutes"
+        },
+        {
+          "label": "Score",
+          "value": "Étoiles"
+        },
+        {
+          "label": "Statut",
+          "value": "Bêta ouverte"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorez Makeup Mania Wiki",
+      "description": "Parcourez huit modules essentiels de Makeup Mania, de votre premier client au stylisme à thème, aux codes, aux mises à jour et aux passes optionnels.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant de Makeup Mania",
+          "description": "Un parcours accessible aux débutants dans la boucle principale : lire le brief client, préparer la base, construire le point focal, estomper, envoyer et lire votre score.",
+          "href": "/guide/makeup-mania-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lisez le brief client et notez l'occasion, l'ambiance et toute demande précise avant de choisir vos produits."
+            },
+            {
+              "label": "2",
+              "detail": "Préparez d'abord la base avec des produits de peau, car tout ce qui se superpose hérite de ce sous-ton."
+            },
+            {
+              "label": "3",
+              "detail": "Construisez le point focal en réussissant la caractéristique que le client a le plus mise en avant."
+            },
+            {
+              "label": "4",
+              "detail": "Estompez la couleur d'accompagnement pour que joues, lèvres et yeux racontent une histoire harmonieuse."
+            },
+            {
+              "label": "5",
+              "detail": "Terminez et envoyez après avoir nettoyé les bords et vérifié le pourtour."
+            },
+            {
+              "label": "6",
+              "detail": "Analysez le détail du score pour voir quelle catégorie vous a coûté des étoiles avant le client suivant."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide des thèmes de Makeup Mania",
+          "description": "Comment lire les consignes de mode et de maquillage, choisir une palette assortie et préparer un look qui correspond au style et à l'occasion demandés.",
+          "href": "/guide/makeup-mania-perfect-look",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Glam doux",
+              "detail": "Yeux neutres chauds, lèvres satinées et un contour léger pour les briefs de jour."
+            },
+            {
+              "label": "Soirée",
+              "detail": "Fards plus profonds, un trait d'eye-liner défini et un rouge à lèvres audacieux pour les demandes nocturnes."
+            },
+            {
+              "label": "Couleur vive",
+              "detail": "Une seule caractéristique saturée, comme un rouge à lèvres rouge ou un eye-liner graphique, sur une base propre."
+            },
+            {
+              "label": "Naturel",
+              "detail": "Un fini peau nue avec un fond de teint léger, des sourcils doux et des lèvres teintées."
+            },
+            {
+              "label": "Pastel",
+              "detail": "De légers voiles de rose, lilas ou menthe estompés en douceur pour des thèmes ludiques."
+            },
+            {
+              "label": "Festival",
+              "detail": "Des touches de paillettes et un enlumineur très brillant pour les demandes de fête et d'événement."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide des outils de maquillage de Makeup Mania",
+          "description": "Chaque catégorie de produit expliquée, du fond de teint et des fards à paupières à l'eye-liner, aux sourcils, au blush et à l'enlumineur, classée selon son impact sur votre score.",
+          "href": "/items/makeup-mania-cosmetics",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "La base et la préparation fixent le sous-ton dont hérite chaque couche suivante."
+            },
+            {
+              "label": "A",
+              "detail": "Les fards à paupières et les sourcils contribuent le plus aux scores de technique et de précision."
+            },
+            {
+              "label": "B",
+              "detail": "L'eye-liner et les cils ajoutent de l'impact, mais sont les outils les moins indulgents."
+            },
+            {
+              "label": "C",
+              "detail": "Le blush et l'enlumineur finalisent le look et unifient la palette."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des cheveux et des cils de Makeup Mania",
+          "description": "Les finitions qui complètent un look à thème, notamment les coiffures, les cils, les teintures et les accessoires qui unifient tout l'avatar.",
+          "href": "/mechanics/makeup-mania-hair",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Chignons",
+              "detail": "Des styles tirés en arrière qui gardent l'attention sur le visage pour les briefs formels."
+            },
+            {
+              "label": "Ondulations",
+              "detail": "Des boucles souples et des ondulations de plage qui conviennent aux thèmes naturels et romantiques."
+            },
+            {
+              "label": "Cils",
+              "detail": "Des choix de courbure, de longueur et de densité qui encadrent les yeux."
+            },
+            {
+              "label": "Teintures",
+              "detail": "Des options de recoloration qui relient les cheveux à la famille de couleurs demandée."
+            },
+            {
+              "label": "Sourcils",
+              "detail": "La forme et le remplissage des sourcils qui encadrent tout le visage."
+            },
+            {
+              "label": "Touches",
+              "detail": "Des pinces, rubans et accessoires pour des finitions à thème."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Codes Makeup Mania",
+          "description": "Suivez où apparaissent les codes Makeup Mania, comment les activer étape par étape et quelles récompenses attendre de chaque sortie.",
+          "href": "/codes/makeup-mania-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Panneau promo",
+              "detail": "Ouvrez le menu Promo ou Cadeaux du jeu pour accéder au champ de saisie des codes.",
+              "badge": "Activer"
+            },
+            {
+              "label": "Pièces",
+              "detail": "La plupart des codes Makeup Mania accordent des pièces du jeu pour de nouveaux produits.",
+              "badge": "Récompense"
+            },
+            {
+              "label": "Pinceaux",
+              "detail": "Les lots d'outils sont une récompense de code courante qui accélère la progression initiale.",
+              "badge": "Récompense"
+            },
+            {
+              "label": "Cosmétiques",
+              "detail": "Des palettes limitées et des objets cosmétiques apparaissent dans les codes d'étape.",
+              "badge": "Récompense"
+            },
+            {
+              "label": "Annonces",
+              "detail": "Les nouveaux codes sont publiés en même temps que les annonces de mise à jour et d'étape.",
+              "badge": "Source"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Astuces de vote de Makeup Mania",
+          "description": "Comment fonctionnent le score et le vote pendant les manches à thème, et les habitudes qui rendent un look clair pour le juge.",
+          "href": "/guide/makeup-mania-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Brief",
+              "detail": "Correspondance avec le style indiqué avant tout, car la précision est le pilier de score le plus important."
+            },
+            {
+              "label": "Estompage",
+              "detail": "Travaillez par fines couches pour que les bords restent nets et la couverture uniforme."
+            },
+            {
+              "label": "Symétrie",
+              "detail": "Zoomez et vérifiez les caractéristiques en miroir avant d'envoyer le look."
+            },
+            {
+              "label": "Temps",
+              "detail": "Envoyez avec du temps d'avance, car un look propre vaut mieux qu'une correction précipitée."
+            },
+            {
+              "label": "Bonus",
+              "detail": "Terminez les objectifs optionnels comme des produits à lèvres supplémentaires ou un enlumineur ajouté."
+            },
+            {
+              "label": "Harmonie",
+              "detail": "Assortissez la palette au sous-ton du modèle pour que toutes les couleurs s'accordent."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mises à jour de Makeup Mania",
+          "description": "Un suivi continu des nouvelles fonctionnalités, des sorties cosmétiques et des changements d'équilibrage pour planifier vos achats avant le prochain patch.",
+          "href": "/reviews/makeup-mania-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Nouveaux looks",
+              "detail": "Les mises à jour de variété cosmétique ajoutent de nouvelles façons de différencier des briefs similaires."
+            },
+            {
+              "label": "Équilibrage",
+              "detail": "Les seuils d'étoiles et les coûts des objets changent à chaque passe d'équilibrage."
+            },
+            {
+              "label": "Événements",
+              "detail": "Des événements à thème à durée limitée défilent dans la liste des clients."
+            },
+            {
+              "label": "Correctifs",
+              "detail": "Les patchs de stabilité réduisent les blocages sur les appareils anciens."
+            },
+            {
+              "label": "Notes",
+              "detail": "Lisez les notes de patch avant de dépenser des pièces dans une nouvelle palette."
+            },
+            {
+              "label": "Installation",
+              "detail": "Liez votre compte avant une mise à jour majeure pour que la progression survive."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Passes de jeu de Makeup Mania",
+          "description": "Une référence des passes premium optionnels et des achats de personnalisation pour comparer les extras avant de dépenser.",
+          "href": "/items/makeup-mania-accessories",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Palettes",
+              "detail": "Les passes premium ajoutent des palettes exclusives et des lots cosmétiques.",
+              "badge": "Optionnel"
+            },
+            {
+              "label": "Garde-robe",
+              "detail": "Des emplacements de rangement supplémentaires gardent une collection croissante organisée.",
+              "badge": "Optionnel"
+            },
+            {
+              "label": "Accélérateurs",
+              "detail": "Des boosts optionnels accélèrent le gain de pièces entre les commandes clients.",
+              "badge": "Optionnel"
+            },
+            {
+              "label": "Boutique",
+              "detail": "Consultez la boutique du jeu pour les passes et les prix actuels.",
+              "badge": "Boutique"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Réponses rapides aux questions les plus courantes sur Makeup Mania.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Makeup Mania ?",
+          "answer": "Makeup Mania est une simulation de maquilleuse free-to-play sur Roblox. Vous recevez un client, lisez le brief, appliquez des produits depuis une palette d'outils et envoyez le look terminé pour obtenir une note en étoiles. Il n'y a ni combat ni échec permanent, les nouveaux joueurs peuvent donc expérimenter librement."
+        },
+        {
+          "question": "Makeup Mania est-il gratuit ?",
+          "answer": "Oui. Makeup Mania est gratuit sur Roblox, et chaque catégorie de produit peut être débloquée en jouant normalement. Les passes optionnels ajoutent des cosmétiques et du confort, mais ne sont pas nécessaires pour bien scorer."
+        },
+        {
+          "question": "Comment obtenir trois étoiles dans Makeup Mania ?",
+          "answer": "Correspondance avec le brief d'abord, puis préparez la base, construisez la caractéristique mise en avant par le client, estompez la couleur d'accompagnement et envoyez avec du temps d'avance. Lire le détail du score après chaque look est le moyen le plus rapide de trouver la catégorie qui vous coûte des étoiles."
+        },
+        {
+          "question": "Où trouver les codes Makeup Mania ?",
+          "answer": "Les codes Makeup Mania sont publiés avec les annonces de mise à jour et d'étape, puis saisis dans le panneau promo ou cadeaux du jeu. Activez-les dès que vous les trouvez, car la plupart expirent vite et ne fonctionnent qu'une fois par compte."
+        },
+        {
+          "question": "De quels outils ai-je besoin dans Makeup Mania ?",
+          "answer": "Commencez par les produits de base, puis les fards à paupières, les sourcils, l'eye-liner, les cils, le blush et l'enlumineur. Le fond de teint fixe le sous-ton dont hérite chaque couche suivante, c'est donc lui qui pèse le plus sur votre score final."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à maîtriser Makeup Mania ?",
+      "description": "De votre premier look de maquillage aux manches de stylisme compétitives, notre wiki communautaire vous accompagne avec des guides Makeup Mania gratuits et à jour.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer à Makeup Mania sur Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides Makeup Mania",
+    "overviewDescription": "Des guides Makeup Mania pas à pas couvrant la boucle du débutant, les looks parfaits et les astuces qui font monter vos scores à chaque manche de stylisme."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques de Makeup Mania",
+    "overviewDescription": "Comment fonctionnent les systèmes de Makeup Mania, du maquillage, des cheveux, des cils et des sourcils à la boucle principale du jeu Roblox qui anime chaque demande client."
+  },
+  "items": {
+    "overviewTitle": "Objets de Makeup Mania",
+    "overviewDescription": "Parcourez les objets, cosmétiques, tenues, kits, accessoires et vernis à ongles de Makeup Mania pour toujours savoir quoi débloquer ensuite."
+  },
+  "codes": {
+    "overviewTitle": "Codes Makeup Mania",
+    "overviewDescription": "Tous les codes Makeup Mania actifs, comment activer chacun d'eux et les récompenses obtenues en les saisissant avant expiration."
+  },
+  "controls": {
+    "overviewTitle": "Commandes de Makeup Mania",
+    "overviewDescription": "Les commandes de Makeup Mania sur PC, mobile et en ligne, avec les raccourcis par défaut, les gestes tactiles et les différences entre plateformes."
+  },
+  "reviews": {
+    "overviewTitle": "Avis sur Makeup Mania",
+    "overviewDescription": "Avis sur Makeup Mania, détails de sortie, historique des mises à jour et les hubs communautaires comme Discord et Reddit où les joueurs comparent leurs impressions."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Média officiel",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Makeup Mania Wiki",
+    "about": "Makeup Mania Wiki est un hub de guides indépendant créé par des fans, couvrant les looks de maquillage, les astuces de style, les défis beauté, la personnalisation de personnages et les connaissances essentielles du jeu, pour les nouveaux joueurs comme les vétérans.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Makeup Mania Wiki. Non affilié à Roblox ni aux développeurs de Makeup Mania.",
+    "description": "Jeu créatif de maquillage et de stylisme sur Roblox. Créez des looks, rejoignez des manches à thème et votez pour vos préférés.",
+    "playGame": "Jouer à Makeup Mania sur Roblox",
+    "officialDiscord": "Discord officiel",
+    "officialYoutube": "Vidéos Makeup Mania",
+    "lookPlanner": "Planificateur de looks Makeup Mania",
+    "beginnerGuide": "Guide du débutant",
+    "looksGuide": "Guide du look parfait",
+    "tipsGuide": "Astuces et conseils",
+    "codes": "Codes actifs",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}
