@@ -42,22 +42,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop from your first client request to your first three-star look, including base prep, tool order, and submission."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Codes and Rewards",
+          "description": "Track where Makeup Mania codes drop, how to redeem them safely, and the mistakes that quietly cost players free coins and items."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Makeup Tools",
+          "description": "Understand every product category, from foundation and eyeshadow to liner, brows, blush, and highlighter, and when to use each one."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Makeup Mania."
+          "title": "Scoring Tips",
+          "description": "See how brief accuracy, blending, speed, and bonus objectives combine into the star rating that funds your next unlock."
         }
       ]
     },
@@ -65,237 +65,356 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Makeup Tools",
+        "Scoring Tips",
+        "Hair and Lashes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first client to a three-star look, step by step.",
+          "href": "/guide/makeup-mania-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Makeup Mania Codes",
+          "description": "Where codes appear, how to redeem them, and what rewards to expect.",
+          "href": "/codes/makeup-mania-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Makeup Tools Guide",
+          "description": "Every product category explained, from base prep to the final highlighter.",
+          "href": "/items/makeup-mania-cosmetics"
+        },
+        {
+          "badge": "Popular",
+          "title": "Hair and Lashes",
+          "description": "Styles, lashes, and dyes that complete a themed look.",
+          "href": "/mechanics/makeup-mania-hair"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "How to Play",
+          "description": "The full loop from reading the brief to collecting your payout.",
+          "href": "/guide/makeup-mania-how-to-play"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Tips and Tricks",
+          "description": "Scoring pillars, color theory, and the habits that raise your average.",
+          "href": "/guide/makeup-mania-tips-and-tricks"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Themes Guide",
+          "description": "How to read style prompts and pick a palette that matches the brief.",
+          "href": "/guide/makeup-mania-perfect-look"
+        },
+        {
+          "badge": "New",
+          "title": "Updates",
+          "description": "What recent Makeup Mania updates changed for looks and scoring.",
+          "href": "/reviews/makeup-mania-update"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Accessories",
+          "description": "Brushes, storage, and vanity items that support every routine.",
+          "href": "/items/makeup-mania-accessories"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Makeup Mania?",
       "paragraphs": [
-        "Makeup Mania is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Makeup Mania is a Roblox makeup-artist simulation. Each session hands you a client with a short brief, and your job is to build a look that matches what they asked for using the tools on your palette. There is no combat and no way to permanently fail, so you can experiment freely while you learn how the game scores your work.",
+        "Progress comes from coins and star ratings. High-scoring looks unlock new products, clients, and styling options, and the habits that earn three stars early, such as reading the brief, prepping the base, and blending in thin layers, carry straight into later and harder requests. Our wiki collects beginner guides, tool breakdowns, and scoring tips in one place."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Makeup Mania Team"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Makeup Styling"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Cost",
+          "value": "Free to Play"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Session",
+          "value": "2-5 Minutes"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Scoring",
+          "value": "Star Ratings"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Status",
+          "value": "Open Beta"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Makeup Mania Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Work through eight core Makeup Mania modules, from your first client to themed styling, codes, updates, and optional passes.",
       "modules": [
         {
           "order": 1,
-          "name": "Makeup Mania Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/makeup-mania-codes",
-          "displayType": "code-box",
+          "name": "Makeup Mania Beginner Guide",
+          "description": "A beginner-friendly walkthrough of the core loop: reading the client brief, prepping the base, building the focal point, blending, submitting, and reading your score.",
+          "href": "/guide/makeup-mania-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Read the client brief and note the occasion, mood, and any specific request before picking products."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Prep the base with skin products first, since everything layered on top inherits that undertone."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Build the focal point by nailing the one feature the client emphasized most."
+            },
+            {
+              "label": "4",
+              "detail": "Blend supporting color so cheeks, lips, and eyes read as one harmonious story."
+            },
+            {
+              "label": "5",
+              "detail": "Finish and submit after cleaning up the edges and checking the perimeter."
+            },
+            {
+              "label": "6",
+              "detail": "Review the score breakdown to see which category cost you stars before the next client."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/makeup-mania-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Makeup Mania Themes Guide",
+          "description": "How to read fashion and makeup prompts, choose a matching palette, and prepare a look that fits the requested style and occasion.",
+          "href": "/guide/makeup-mania-perfect-look",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Soft Glam",
+              "detail": "Warm neutral eyes, satin lips, and a light contour for daytime briefs."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Evening",
+              "detail": "Deeper shadows, a defined liner wing, and a bold lip for night requests."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Bold Pop",
+              "detail": "One saturated feature, like a red lip or graphic liner, against a clean base."
+            },
+            {
+              "label": "Natural",
+              "detail": "A bare-skin finish with sheer foundation, soft brows, and a tinted lip."
+            },
+            {
+              "label": "Pastel",
+              "detail": "Light washes of pink, lilac, or mint blended softly for playful themes."
+            },
+            {
+              "label": "Festival",
+              "detail": "Glitter accents and a high-shine highlight for party and event prompts."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/makeup-mania-tier-list",
+          "name": "Makeup Mania Makeup Tools Guide",
+          "description": "Every product category explained, from foundation and eyeshadow to liner, brows, blush, and highlighter, ranked by how much each one moves your score.",
+          "href": "/items/makeup-mania-cosmetics",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Foundation and base set the undertone that every later layer inherits."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Eyeshadow and brows contribute the most to technique and accuracy scores."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Eyeliner and lashes add impact but are the least forgiving tools."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Blush and highlighter finish the look and tie the palette together."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/makeup-mania-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Makeup Mania Hair and Lashes Guide",
+          "description": "Finishing touches that complete a themed look, including hairstyles, lashes, dyes, and accessories that tie the whole avatar together.",
+          "href": "/mechanics/makeup-mania-hair",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Updos",
+              "detail": "Swept-back styles that keep the focus on the face for formal briefs."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Waves",
+              "detail": "Soft curls and beach waves that suit natural and romantic themes."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Lashes",
+              "detail": "Curl, length, and density choices that frame the eyes."
+            },
+            {
+              "label": "Dyes",
+              "detail": "Recolor options that tie the hair to the requested color family."
+            },
+            {
+              "label": "Brows",
+              "detail": "Brow shape and fill that frame the whole face."
+            },
+            {
+              "label": "Accents",
+              "detail": "Clips, ribbons, and accessories for themed finishing touches."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/makeup-mania-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Makeup Mania Codes",
+          "description": "Track where Makeup Mania codes appear, how to redeem them step by step, and what rewards to expect from each drop.",
+          "href": "/codes/makeup-mania-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Promo panel",
+              "detail": "Open the in-game Promo or Gift menu to reach the code entry field.",
+              "badge": "Redeem"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Coins",
+              "detail": "Most Makeup Mania codes grant in-game coins for new products.",
+              "badge": "Reward"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Brushes",
+              "detail": "Tool bundles are a common code reward that speeds up early progression.",
+              "badge": "Reward"
+            },
+            {
+              "label": "Cosmetics",
+              "detail": "Limited palettes and cosmetic items appear in milestone codes.",
+              "badge": "Reward"
+            },
+            {
+              "label": "Announcements",
+              "detail": "New codes are posted alongside update and milestone announcements.",
+              "badge": "Source"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/makeup-mania-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Makeup Mania Voting Tips",
+          "description": "How scoring and voting work across themed rounds, and the habits that make a look read clearly to the judge.",
+          "href": "/guide/makeup-mania-tips-and-tricks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Brief",
+              "detail": "Match the stated style first, because accuracy is the largest scoring pillar."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Blending",
+              "detail": "Build in thin layers so edges stay clean and coverage stays even."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Symmetry",
+              "detail": "Zoom in and check mirrored features before you submit the look."
+            },
+            {
+              "label": "Timing",
+              "detail": "Submit with time to spare, since a clean look beats a rushed correction."
+            },
+            {
+              "label": "Bonus",
+              "detail": "Finish optional goals like extra lip products or an added highlighter."
+            },
+            {
+              "label": "Harmony",
+              "detail": "Match the palette to the model's undertone so every color agrees."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Makeup Mania Updates",
+          "description": "A running look at new features, cosmetic releases, and balance changes so you can plan purchases before the next patch.",
+          "href": "/reviews/makeup-mania-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "New Looks",
+              "detail": "Cosmetic variety updates add fresh ways to differentiate similar briefs."
+            },
+            {
+              "label": "Balance",
+              "detail": "Star thresholds and item costs shift with each balance pass."
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time themed events rotate through the client list."
+            },
+            {
+              "label": "Fixes",
+              "detail": "Stability patches reduce freezes on older devices."
+            },
+            {
+              "label": "Notes",
+              "detail": "Read the patch notes before spending coins on a new palette."
+            },
+            {
+              "label": "Install",
+              "detail": "Link your account before a major patch so progress survives."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Makeup Mania Gamepasses",
+          "description": "A reference for optional premium passes and customization purchases so you can compare extras before spending.",
+          "href": "/items/makeup-mania-accessories",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Palettes",
+              "detail": "Premium passes add exclusive palettes and cosmetic bundles.",
+              "badge": "Optional"
+            },
+            {
+              "label": "Wardrobe",
+              "detail": "Extra storage slots keep a growing collection organized.",
+              "badge": "Optional"
+            },
+            {
+              "label": "Boosters",
+              "detail": "Optional boosts speed up coin earning between client orders.",
+              "badge": "Optional"
+            },
+            {
+              "label": "Store",
+              "detail": "Check the in-game store for the current passes and pricing.",
+              "badge": "Store"
             }
           ]
         }
@@ -307,23 +426,23 @@
       "items": [
         {
           "question": "What is Makeup Mania?",
-          "answer": "Makeup Mania is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Makeup Mania is a free-to-play Roblox makeup-artist simulation. You receive a client, read the brief, apply products from a tool palette, and submit the finished look for a star rating. There is no combat and no way to permanently fail, so new players can experiment freely."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Makeup Mania free to play?",
+          "answer": "Yes. Makeup Mania is free to play on Roblox, and every product category can be unlocked through normal play. Optional passes add cosmetics and convenience but are not required to score well."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I score three stars in Makeup Mania?",
+          "answer": "Match the brief first, then prep the base, build the one feature the client emphasized, blend supporting color, and submit with time to spare. Reading the score breakdown after each look is the fastest way to find the category costing you stars."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where do I find Makeup Mania codes?",
+          "answer": "Makeup Mania codes are posted with update and milestone announcements, then entered in the in-game promo or gift panel. Redeem them as soon as you find them, since most expire quickly and only work once per account."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What tools do I need in Makeup Mania?",
+          "answer": "Start with the base products, then eyeshadow, brows, liner, lashes, blush, and highlighter. Foundation sets the undertone that every later layer inherits, so it has the largest effect on your final score."
         }
       ]
     },
