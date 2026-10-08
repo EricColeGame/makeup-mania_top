@@ -8,7 +8,13 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "codes": "Codes",
+    "controls": "Controls",
+    "reviews": "Reviews"
   },
   "home": {
     "meta": {
@@ -453,7 +459,30 @@
       "secondary": "Play Makeup Mania on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Makeup Mania Guides",
+    "overviewDescription": "Step-by-step Makeup Mania guides covering the beginner loop, perfect looks, and the tips that push your scores higher in every styling round."
+  },
+  "mechanics": {
+    "overviewTitle": "Makeup Mania Mechanics",
+    "overviewDescription": "How Makeup Mania systems work, from makeup, hair, lashes, and eyebrows to the core Roblox game loop that drives each client request."
+  },
+  "items": {
+    "overviewTitle": "Makeup Mania Items",
+    "overviewDescription": "Browse Makeup Mania items, cosmetics, outfits, kits, accessories, and nail polish so you always know what to unlock next."
+  },
+  "codes": {
+    "overviewTitle": "Makeup Mania Codes",
+    "overviewDescription": "Every active Makeup Mania code, how to redeem each one, and the rewards you get for entering them before they expire."
+  },
+  "controls": {
+    "overviewTitle": "Makeup Mania Controls",
+    "overviewDescription": "Makeup Mania controls for PC, mobile, and online play, including default keybinds, touch gestures, and platform differences."
+  },
+  "reviews": {
+    "overviewTitle": "Makeup Mania Reviews",
+    "overviewDescription": "Makeup Mania reviews, release details, update history, and the community hubs like Discord and Reddit where players compare notes."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
